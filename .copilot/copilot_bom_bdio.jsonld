@@ -1,0 +1,36 @@
+[
+  {
+    "specVersion": "1.1.0",
+    "spdx:name": "example-maven-travis-master/Detect Unknown Version Black Duck I/O Export",
+    "creationInfo": {
+      "spdx:creator": [
+        "Tool: IntegrationBdio-13.0.0",
+        "Tool: HubDetect-3.1.1"
+      ],
+      "spdx:created": "2018-11-04T13:31:59.254591Z"
+    },
+    "@id": "uuid:3d84ba53-01ce-4002-b4af-2ce622c7ba7f",
+    "@type": "BillOfMaterials",
+    "relationship": []
+  },
+  {
+    "name": "example-maven-travis-master",
+    "revision": "Detect Unknown Version",
+    "@id": "http:/example_maven_travis_master/Detect_Unknown_Version",
+    "@type": "Project",
+    "externalIdentifier": {
+      "externalSystemTypeId": "",
+      "externalId": "example-maven-travis-master/Detect Unknown Version",
+      "externalIdMetaData": {
+        "forge": {
+          "name": "",
+          "separator": "/",
+          "kbSeparator": "/"
+        },
+        "name": "example-maven-travis-master",
+        "version": "Detect Unknown Version"
+      }
+    },
+    "relationship": []
+  }
+]
